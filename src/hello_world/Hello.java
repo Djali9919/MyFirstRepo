@@ -7,6 +7,7 @@ public class Hello {
 		System.out.print("Hello Ali");
 		System.out.println("Hello Ayesha");
 		System.out.println("Ali loves Ayesha");
+		System.out.println("Vice versa?...Don't know");
 	}
 
 }
