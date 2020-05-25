@@ -5,7 +5,8 @@ public class Hello {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.print("Hello Ali");
-		System.out.print("Hello Ayesha");
+		System.out.println("Hello Ayesha");
+		System.out.println("Ali loves Ayesha");
 	}
 
 }
